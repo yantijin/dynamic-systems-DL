@@ -1,7 +1,7 @@
 ## Dynamic Systems & Deep Learning
 
 
-> A collection of resources regarding the interplay between differential equations, dynamical systems, deep learning, control and scientific machine learning. . **Please feel free to submit a pull request if you want to add good papers. Welcome to contact me for cooperation if there are many overlaps in our research interests。**
+> A collection of resources that combine dynamical systems, control with deep learning. **Please feel free to submit a pull request if you want to add good papers. Welcome to contact me for cooperation if there are many overlaps in our research interests。**
 
 ## Differential Equations in Deep Learning
 
