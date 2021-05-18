@@ -148,6 +148,7 @@
 * System Identification with Time-Aware Neural Sequence Models: [AAAI20](https://arxiv.org/abs/1911.09431)
 * Universality and Individuality in recurrent networks: [NeurIPS19](https://arxiv.org/abs/1907.08549)
 * The LOB Recreation Model: Predicting the Limit Order Book from TAQ History Using an Ordinary Differential Equation Recurrent Neural Network. [AAAI21]
+* Lipschitz Recurrent Neural Networks. [ICLR21](https://arxiv.org/abs/2006.12070)
 
 ### Theory and Perspectives
 
