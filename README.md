@@ -1,3 +1,5 @@
+
+
 ## Dynamic Systems & Deep Learning
 
 
@@ -43,7 +45,7 @@
 * Accelerating Neural ODEs with Spectral Elements: [arXiv19](https://arxiv.org/abs/1906.07038)
 * Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE: [ICML20](https://arxiv.org/abs/2006.02493)
 * "Hey, that's not an ODE": Faster ODE Adjoints with 12 Lines of Code [arXiv20]()
-* How to Train you Neural ODE: [arXiv20](https://arxiv.org/abs/2002.02798)
+* How to Train your Neural ODE: [arXiv20](https://arxiv.org/abs/2002.02798)
 * Hypersolvers: Toward Fast Continuous-Depth Models [NeurIPS20](http://proceedings.neurips.cc/paper/2020/hash/f1686b4badcf28d33ed632036c7ab0b8-Abstract.html)
 * Interpolation technique to speed up gradients propagation in Neural Ordinary Differential Equations. [NeurIPS20](https://papers.nips.cc/paper/2020/file/c24c65259d90ed4a19ab37b6fd6fe716-Paper.pdf)
 
